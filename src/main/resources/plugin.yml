@@ -1,0 +1,3 @@
+name: MongoMenu
+version: '${project.version}'
+main: wtf.jsexp.mongomenu.MongoMenu

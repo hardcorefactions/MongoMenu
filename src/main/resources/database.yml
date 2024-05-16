@@ -1,0 +1,3 @@
+MONGO:
+  URI: "mongodb://localhost"
+  NAME: "MongoMenu"
